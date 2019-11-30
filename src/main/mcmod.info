@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moddingschool",
+  "name": "Modding School",
+  "description": "This is the mod created by DaRubyMiner360 during his Modding School series on his YouTube channel. It is also his first mod EVER, starting at 1.7.10 first.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DaRubyMiner360","DaRubyMiner"],
+  "credits": "Thank you MrCrayFish for the easy-to-follow modding tutorials, and to my best friends for supporting and challenging me!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
